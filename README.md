@@ -1,5 +1,6 @@
-# Geospatial-Accuracy-Assessment-Toolkit
-A robust data science toolkit for spatial accuracy assessment, anomaly detection, and statistical thresholding in remote sensing workflows.
+# Geospatial Accuracy Assessment & Statistical Toolkit 🌍📊
+
+A robust data science toolkit designed for spatial accuracy assessment, anomaly detection, and statistical thresholding in remote sensing workflows. 
 
 This repository provides automated scripts to process extracted raster values (e.g., Vegetation Indices, Water Indices), compute confusion matrices, evaluate classification accuracy, and utilize robust statistical methods (like IQR-based outlier removal) to determine optimal classification thresholds.
 
